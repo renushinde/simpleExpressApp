@@ -1,0 +1,14 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "solution to express exercise",
+  "main": "express.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[A\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[app"
+  },
+  "author": "Renu shinde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
